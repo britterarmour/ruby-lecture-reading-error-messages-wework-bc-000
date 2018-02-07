@@ -1,3 +1,3 @@
 puts "hello world"
 
-var hello_world = "Hello World"
+hello_world = "Hello World"
